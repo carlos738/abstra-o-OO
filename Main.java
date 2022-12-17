@@ -54,7 +54,7 @@ public class Main {
 		devThamires.progredir();
 		System.out.println("--");
 		System.out.println("Conteúdos inscritos" + devThamires.getConteudosInscritos());
-		System.out.println("Conteúdos conclu�dos" + devThamires.getConteudosConcluidos());
+		System.out.println("Conteúdos concluidos" + devThamires.getConteudosConcluidos());
 		System.out.println("XP:" + devThamires.calcularTotalXp());
 
 	}
